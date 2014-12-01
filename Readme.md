@@ -1,10 +1,8 @@
 GPU Kernels
 ============
 
-This is a set of OpenCL kernels designed to run on any OpenCL 1.2 compliant device. This is commonly a GPU, but may also be a CPU or an FPGA.
+NOTICE: 
 
-There is also a web API for easy use.
+This project is currently in development. Plans are to release version 0.1 including sourcecode as of 12/22/2014. 
 
-Blah blah blah
-
-Details here.
+Thanks for your patience.
